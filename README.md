@@ -80,10 +80,7 @@ The website is ready for deployment to:
 
 ## 📞 Contact
 
-- **Email**: k.algharieb@hotmail.com
-- **Phone**: +352 691 128 390
 - **LinkedIn**: [linkedin.com/in/kalgharieb](https://www.linkedin.com/in/kalgharieb)
-- **Location**: Luxembourg, Europe
 
 ---
 
